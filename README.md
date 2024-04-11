@@ -17,3 +17,9 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+Container - Configurando colores, sombra, esquinas redondeadas, imagen
+
+![image](https://github.com/Rodriguezb128/Ull-A5_Diseno/assets/143763162/eb1c0add-073e-4dd0-b9e2-20d3b1d8a956)
+
+![image](https://github.com/Rodriguezb128/Ull-A5_Diseno/assets/143763162/5179db71-0138-45eb-89ad-95daf6b9fe41)
